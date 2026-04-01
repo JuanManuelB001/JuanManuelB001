@@ -2,14 +2,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1BBAF7&width=435&lines=Systems+Engineer;%7C+Juan+Manuel+Bolivar+Mojica)](https://git.io/typing-svg)
 
   <div>
-    <p>Soy desarrollador Full Stack y apasionado por la Inteligencia Artificial.  
-Me gusta aprender nuevas tecnologías y trabajar en proyectos que impacten positivamente.</p>
+    <p>🚀 Full Stack Developer passionate about Artificial Intelligence.
+I focus on building modern applications and solutions that create real impact.
+I’m always learning, experimenting, and developing projects that combine technology and innovation.</p>
   </div>
   
 <!-- Tech Stack Section -->
 <div align="center">
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+
   <h2>languages</h2>
   <img src="https://skillicons.dev/icons?i=js,html,css,java,python,androidstudio" alt="lenguajes"></img>
   <h2>🛠️ Backend</h2>
