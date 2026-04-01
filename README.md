@@ -7,7 +7,10 @@ Me gusta aprender nuevas tecnologías y trabajar en proyectos que impacten posit
   </div>
 <!-- Tech Stack Section -->
 <div align="center">
-
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
+  <h2>Lenguajes</h2>
+  <img src="https://skillicons.dev/icons?i=js,html,css,java,python" alt="lenguajes"></img>
   <h2>🛠️ Backend</h2>
   <p>
     <img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=java" alt="Java"/>
