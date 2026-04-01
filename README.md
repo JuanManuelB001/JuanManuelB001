@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1BBAF7&width=435&lines=Systems+Engineer;%7C+Juan+Manuel+Bolivar+Mojica)](https://git.io/typing-svg)
 
 ## TECNOLOGY'S
 ![JavaScript](https://img.shields.io/badge/-javascript-blue?logo=javascript)
