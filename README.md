@@ -5,11 +5,12 @@
     <p>Soy desarrollador Full Stack y apasionado por la Inteligencia Artificial.  
 Me gusta aprender nuevas tecnologías y trabajar en proyectos que impacten positivamente.</p>
   </div>
+  
 <!-- Tech Stack Section -->
 <div align="center">
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
-  <h2>Lenguajes</h2>
+  <h2>languages</h2>
   <img src="https://skillicons.dev/icons?i=js,html,css,java,python,androidstudio" alt="lenguajes"></img>
   <h2>🛠️ Backend</h2>
   <p>
@@ -49,6 +50,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--- stats & Trophy (start) -->
+
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanManuelB001&theme=dark&show_icons=true&count_private=true" />
+  <br><br>
+  <img title="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanManuelB001&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JuanManuelB001&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+</td>
+</tr>
+</table>
+
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=JuanManuelB001&show_icons=true)
 <h2>Bloc Post</h2>
 <a href="https://niixer.com/?s=juan+manuel+bolivar+mojica">ss</a>
