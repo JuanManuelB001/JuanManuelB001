@@ -73,7 +73,22 @@ Here are some ideas to get you started:
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=JuanManuelB001&show_icons=true)
 <h2>Bloc Post</h2>
 <a href="https://niixer.com/?s=juan+manuel+bolivar+mojica">ss</a>
-## Authors
-
-- [@JuanManuelB001](https://www.github.com/JuanManuelB001)
+<h2 align="center">you can reach me by:</h2>
+    <p align="center">
+      <br/>
+      <a href="https://www.linkedin.com/in/juan-manuel-bolivar-mojica/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="mailto:jbolivarm2@ucentral.edu.co" target="blank">
+  <img align="center"
+       src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+       alt="jbolivarm2"
+       height="30"/></a>
+      <a href="https://www.instagram.com/juanlodj327/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://wa.me/+573152646636" target="blank"><img align="center"
+         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
+         alt="azzar" height="30"/></a>
+    </p>
 
