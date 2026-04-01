@@ -69,10 +69,9 @@ Here are some ideas to get you started:
 </td>
 </tr>
 </table>
-
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=JuanManuelB001&show_icons=true)
 <h2>Bloc Post</h2>
-<a href="https://niixer.com/?s=juan+manuel+bolivar+mojica">ss</a>
+<p>If you’d like to check it out sometime <a href="https://niixer.com/?s=juan+manuel+bolivar+mojica">Click here</a></p>
+<br>
 <h2 align="center">you can reach me by:</h2>
     <p align="center">
       <br/>
