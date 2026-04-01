@@ -10,10 +10,9 @@ Me gusta aprender nuevas tecnologías y trabajar en proyectos que impacten posit
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
   <h2>Lenguajes</h2>
-  <img src="https://skillicons.dev/icons?i=js,html,css,java,python" alt="lenguajes"></img>
+  <img src="https://skillicons.dev/icons?i=js,html,css,java,python,androidstudio" alt="lenguajes"></img>
   <h2>🛠️ Backend</h2>
   <p>
-    <img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=java" alt="Java"/>
     <img src="https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=springboot" alt="Spring Boot"/>
     <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" alt="Python"/>
   </p>
@@ -30,6 +29,7 @@ Me gusta aprender nuevas tecnologías y trabajar en proyectos que impacten posit
   <p>
     <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql" alt="MySQL"/>
     <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase"/>
   </p>
 
 </div>
@@ -50,7 +50,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=JuanManuelB001&show_icons=true)
-
+<h2>Bloc Post</h2>
+<a href="https://niixer.com/?s=juan+manuel+bolivar+mojica">ss</a>
 ## Authors
 
 - [@JuanManuelB001](https://www.github.com/JuanManuelB001)
