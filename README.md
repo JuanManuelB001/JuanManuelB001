@@ -18,3 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=JuanManuelB001&show_icons=true)
+
+## Authors
+
+- [@JuanManuelB001](https://www.github.com/JuanManuelB001)
+
