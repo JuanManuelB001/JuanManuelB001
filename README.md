@@ -17,6 +17,7 @@ I’m always learning, experimenting, and developing projects that combine techn
   <p>
     <img src="https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=springboot" alt="Spring Boot"/>
     <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" alt="Python"/>
+     <img src="https://img.shields.io/badge/-Strapi-333333?style=flat&logo=strapi&logoColor=white" alt="Strapi"/>
   </p>
 
   <h2>🌐 Frontend</h2>
